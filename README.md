@@ -1,4 +1,3 @@
-ce
-==
+# Tech
 
 Checklist engine
